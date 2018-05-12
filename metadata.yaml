@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32001'
     url: http://www.gutenberg.org/2009/agents/32001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26434#The-Boys-of-Crawford-s-BasinThe-Story-of-a-Mountain-Ranch-in-the-Early-Days-of-Colorado
 gutenberg_issued: '2008-08-26'
 gutenberg_type: Text
 identifiers:
